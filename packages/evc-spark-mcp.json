@@ -1,0 +1,10 @@
+{
+  "name": "evc-spark-mcp",
+  "description": "MCP server for Spark — search and install curated AI agent workflows, skills, prompts, and MCP connectors from a marketplace of 4,500+ assets",
+  "vendor": "Entire VC (https://entire.vc)",
+  "sourceUrl": "https://github.com/entire-vc/evc-spark-mcp",
+  "homepage": "https://spark.entire.vc",
+  "license": "MIT",
+  "runtime": "node",
+  "environmentVariables": {}
+}
